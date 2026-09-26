@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+      box-sizing: border-box;
+}
+body{
+      background-color: rgb(210, 230, 139);
+}
+
+h1{
+    color:red;
+}
+h2{
+    color: blue;
+}
+h2{
+   color:blueviolet;
+}
+.card{
+      padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+h3{
+    color: rgb(5, 90, 20);
+}
